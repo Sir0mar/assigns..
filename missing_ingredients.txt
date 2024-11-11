@@ -1,0 +1,4 @@
+97,Coconut,4kg
+22,Juice,3l
+17,Duck,9kg
+45,Bird,77kg
